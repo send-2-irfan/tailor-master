@@ -1,0 +1,26 @@
+String name = ""+nametxt.getText();
+//				int	lembai = Integer.parseInt(lebaitxt.getText());
+//				int bazo = Integer.parseInt(bazotxt.getText());
+//				int thera = Integer.parseInt(theratxt.getText());
+//				int collar = Integer.parseInt(collartxt.getText());
+//				int kamer = Integer.parseInt(kamertxt.getText());
+//				int shelwar =  Integer.parseInt(shelwartxt.getText());
+//				int paancha = Integer.parseInt(paanchatxt.getText());
+//				int shelwarkuhli = Integer.parseInt(shelwarkuhlitxt.getText());
+//				long phone = Long.parseLong(phonetxt.getText());
+//				String address = addresstxt.getText();
+//				int id =Integer.parseInt(idtxt.getText());
+//				
+//				
+//				pst.setInt(1,id);
+//				pst.setString(2, name);
+//				pst.setInt(3, lembai);
+//				pst.setInt(4, bazo);
+//				pst.setInt(5, thera);
+//				pst.setInt(6, collar);
+//				pst.setInt(7, kamer);
+//				pst.setInt(8, shelwar);
+//				pst.setInt(9, paancha);
+//				pst.setInt(10, shelwarkuhli);
+//				pst.setLong(11, phone);
+//				pst.setString(12, address);
